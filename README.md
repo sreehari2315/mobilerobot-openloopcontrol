@@ -142,7 +142,7 @@ if _name_ == '_main_':
 ## MobileRobot Movement Image:
 
 ![robo](mb1.jpeg)
-![robo](mb2.jpeg
+![robo](mb2.jpeg)
 
 ## MobileRobot Movement Video:
 
